@@ -4,7 +4,7 @@
   * At the moment it doesn't have any styling.
 
 * Follow the instructions at https://tailwindcss.com/docs/installation to get started with Tailwind. Here are some additional pointers:-
-    * If you are at university you will need to use the node.js command prompt. make sure you navigate to your project folder before running the commands
+    * If you are at university you will need to use the node.js command prompt. make sure you navigate to your project folder before running the commands.
     * Where it says configure the template paths use a content value of ```["./index.html"]``` in the **tailwind.config.js** file. This is simply telling tailwind where to look for class names. 
     * The file **orig.css** already contains the Tailwind directives.
     * When starting the build process use the following command:-
